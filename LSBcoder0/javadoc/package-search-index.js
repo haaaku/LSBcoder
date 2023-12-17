@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.lsbcoder","l":"back"},{"m":"com.example.lsbcoder","l":"com.example.lsbcoder"}];updateSearchResults();
